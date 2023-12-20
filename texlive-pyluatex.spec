@@ -1,6 +1,6 @@
 Name:		texlive-pyluatex
-Version:	63491
-Release:	2
+Version:	65855
+Release:	1
 Summary:	Execute Python code on the fly in your LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pyluatex
