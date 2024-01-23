@@ -1,5 +1,5 @@
 Name:		texlive-pyluatex
-Version:	65855
+Version:	69372
 Release:	1
 Summary:	Execute Python code on the fly in your LaTeX documents
 Group:		Publishing
