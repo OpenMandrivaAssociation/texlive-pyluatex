@@ -3,7 +3,7 @@ Version:	69372
 Release:	1
 Summary:	Execute Python code on the fly in your LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pyluatex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pyluatex
 License:	mit lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pyluatex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pyluatex.doc.r%{version}.tar.xz
